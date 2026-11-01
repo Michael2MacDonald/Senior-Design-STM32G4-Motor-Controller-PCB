@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "EdgeHeaders") (type "KiCad") (uri "/home/michael/Documents/School/Senior-Design/PCBs/Custom-Footprints/EdgeHeaders.pretty") (options "") (descr ""))
+)
