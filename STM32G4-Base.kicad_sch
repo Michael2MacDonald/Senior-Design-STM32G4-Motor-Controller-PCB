@@ -13010,10 +13010,6 @@
 		(at 182.88 167.64)
 		(uuid "e07a89be-c28c-4730-b464-0947b17e07c5")
 	)
-	(no_connect
-		(at 182.88 190.5)
-		(uuid "f895c08b-f831-4c8f-86a2-d8d1ef178618")
-	)
 	(wire
 		(pts
 			(xy 19.05 68.58) (xy 26.67 68.58)
@@ -13933,6 +13929,16 @@
 			(type default)
 		)
 		(uuid "4cd6e02d-6277-42a2-aaf0-3e619123eddd")
+	)
+	(wire
+		(pts
+			(xy 170.18 190.5) (xy 182.88 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4de09e39-6477-44e5-82ba-c6f071eb6031")
 	)
 	(wire
 		(pts
@@ -18467,6 +18473,16 @@
 			(justify right bottom)
 		)
 		(uuid "b9053e87-a8cd-4601-83b7-b3db8509a28b")
+	)
+	(label "USR_LED"
+		(at 170.18 190.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "be06b405-9d34-4832-9b70-2a7476060b29")
 	)
 	(label "SWDIO"
 		(at 227.33 182.88 180)
